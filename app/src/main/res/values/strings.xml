@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica 2 - Jheremy Mollo</string>
+    <string name="btn_process">PROCESAR</string>
+    <string name="practice_2">PRACTICA #2</string>
+    <string name="txt_code">CODIGO</string>
+    <string name="txt_counting">::</string>
+</resources>
